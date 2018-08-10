@@ -3,7 +3,7 @@ layout:     post
 title:      "当我写博客时我写些什么"
 subtitle:   "Think, try and write"
 date:       2018-08-05 13:50:00
-author:     "null杨"
+author:     "eter杨"
 header-img: "img/post-think-try-write.jpg"
 tags:
     - 聊聊
